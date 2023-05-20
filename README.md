@@ -46,4 +46,5 @@ OUTPUT :
 ![EX-9 APPLICATION USING TCP SOCKETS - CREATING FOR CHAT CLIENT-SERVER](https://github.com/kannan0071/EX-9/assets/119641638/76fb88d0-e802-412c-9afc-7f1606367bf4)
 
 RESULT :
+
 Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
